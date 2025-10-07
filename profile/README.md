@@ -55,7 +55,7 @@
 (2) 设置原始仓库
 
 ```
-git remote add upstream https://github.com/312Hz/[仓库名称]
+git remote add upstream https://github.com/LeavesCloud/[仓库名称]
 ```
 
 (3) 提交 `pr`
